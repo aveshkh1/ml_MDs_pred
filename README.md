@@ -48,6 +48,7 @@ k-Nearest Neighbors (k-NN)
 
 # Web Interface
 The web interface allows users to input medical data and receive predictions for Heart Disease, Diabetes, and Parkinson's Disease. The application is deployed on Streamlit and can be accessed online.The Link is provided below
+https://mlmdspred-kjxvkwyuscgqst33ejayfn.streamlit.app
 
 Results
 The performance of each classification model was evaluated using the following metrics:
